@@ -1,5 +1,5 @@
 {
-  "name": "mybootstrap",
+  "name": "My Gulp Bower Bootstrap Starter",
   "version": "1.0.0",
   "description": "Gulp Bootstrap Sass Bower",
   "main": "gulpfile.js",
