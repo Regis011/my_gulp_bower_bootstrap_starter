@@ -1,0 +1,27 @@
+{
+  "name": "mybootstrap",
+  "description": "Gulp Bootstrap Sass Bower",
+  "main": "gulpfile.js",
+  "authors": [
+    "Vladimir Rancic"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "bootstrap",
+    "gulp",
+    "bower",
+    "sass"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#~3.3.6"
+  }
+}
