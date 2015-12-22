@@ -1,4 +1,4 @@
-# my_bootstrap_sass_starter<br>
+# My bootstrap sass starter with Gulp and Bower<br>
 <srong>Quick Bootstrap sass starter with Gulp and Bower</strong>
 
 <p><strong>by</strong>: Vladimir Rancic <a href="https://twitter.com/VladimirXRegis" target="_blank">@VladimirXRegis</a></p>
@@ -38,6 +38,6 @@
 <p>
 Resources<br>
 - <a href="http://bower.io/" target="_blank">Bower</a><br>
-- <a href="http://gulpjs.com/" target="_blank">Gulp</a>
+- <a href="http://gulpjs.com/" target="_blank">Gulp</a><br>
 - <a href="https://www.npmjs.com/" target="_blank">npm - the package manager.</a>
 </p>
