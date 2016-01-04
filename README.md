@@ -1,5 +1,5 @@
 # My bootstrap sass starter with Gulp and Bower<br>
-<srong>Quick Bootstrap sass starter with Gulp and Bower</strong>
+<strong>Quick Bootstrap sass starter with Gulp and Bower</strong>
 
 <p><strong>by</strong>: Vladimir Rancic <a href="https://twitter.com/VladimirXRegis" target="_blank">@VladimirXRegis</a></p>
 
